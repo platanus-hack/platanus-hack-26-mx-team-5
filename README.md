@@ -1,8 +1,9 @@
-# team-5 Platanus Hack 26: CDMX Project
+# team-5 Platanus Hack 26: MyEyesTalk
 
 **Current project logo:** project-logo.png
 
-<img src="./project-logo.png" alt="Project Logo" width="200" />
+<img width="1254" height="1254" alt="gg" src="https://github.com/user-attachments/assets/1989ceca-fd54-4f34-820c-46c626402336" />
+
 
 Track: 👁️ New Interfaces
 
